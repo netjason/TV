@@ -1,5 +1,5 @@
-source_file = "demo.txt"
-final_file = "result.txt"
+source_file = "my_demo.txt"
+final_file = "my_result.txt"
 favorite_list = [
     "广东珠江",
     "开平综合",
